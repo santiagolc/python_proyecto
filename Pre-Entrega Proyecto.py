@@ -24,6 +24,8 @@ precio = 0
 # Genero una lista de etiquetas para mostrar la descripcion de cada producto
 etiquetas = ["Nombre", "Categoria", "Precio"]
 
+# Genero una variable de prueb para Git
+variable_prueba = ""
 
 # Muestro el menu principal al user
 while True:
